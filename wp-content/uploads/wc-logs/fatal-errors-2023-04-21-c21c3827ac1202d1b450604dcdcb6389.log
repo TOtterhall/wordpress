@@ -1,0 +1,100 @@
+2023-04-21T09:49:07+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/storefront-template-hooks.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php:32
+Stack trace:
+#0 C:\xampp\htdocs\labb2\wordpress\wp-settings.php(591): include()
+#1 C:\xampp\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\labb2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown i C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php på rad 32
+
+2023-04-21T09:49:26+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/storefront-template-hooks.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php:32
+Stack trace:
+#0 C:\xampp\htdocs\labb2\wordpress\wp-settings.php(591): include()
+#1 C:\xampp\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\labb2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown i C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php på rad 32
+
+2023-04-21T11:28:56+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/storefront-template-hooks.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php:32
+Stack trace:
+#0 C:\xampp\htdocs\labb2\wordpress\wp-settings.php(591): include()
+#1 C:\xampp\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\labb2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown i C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php på rad 32
+
+2023-04-21T11:29:01+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/storefront-template-hooks.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php:32
+Stack trace:
+#0 C:\xampp\htdocs\labb2\wordpress\wp-settings.php(591): include()
+#1 C:\xampp\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\labb2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown i C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php på rad 32
+
+2023-04-21T11:29:13+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/storefront-template-hooks.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php:32
+Stack trace:
+#0 C:\xampp\htdocs\labb2\wordpress\wp-settings.php(591): include()
+#1 C:\xampp\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\labb2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown i C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php på rad 32
+
+2023-04-21T11:31:45+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/storefront-template-hooks.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php:32
+Stack trace:
+#0 C:\xampp\htdocs\labb2\wordpress\wp-settings.php(591): include()
+#1 C:\xampp\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\labb2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown i C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php på rad 32
+
+2023-04-21T11:32:13+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/storefront-template-hooks.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php:32
+Stack trace:
+#0 C:\xampp\htdocs\labb2\wordpress\wp-settings.php(591): include()
+#1 C:\xampp\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\labb2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown i C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php på rad 32
+
+2023-04-21T11:32:35+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/storefront-template-hooks.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php:32
+Stack trace:
+#0 C:\xampp\htdocs\labb2\wordpress\wp-settings.php(591): include()
+#1 C:\xampp\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\labb2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown i C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php på rad 32
+
+2023-04-21T11:33:39+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/storefront-template-hooks.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php:32
+Stack trace:
+#0 C:\xampp\htdocs\labb2\wordpress\wp-settings.php(591): include()
+#1 C:\xampp\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\labb2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown i C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php på rad 32
+
+2023-04-21T11:34:19+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/storefront-template-hooks.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php:32
+Stack trace:
+#0 C:\xampp\htdocs\labb2\wordpress\wp-settings.php(591): include()
+#1 C:\xampp\htdocs\labb2\wordpress\wp-config.php(93): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\labb2\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\labb2\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\labb2\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown i C:\xampp\htdocs\labb2\wordpress\wp-content\themes\storefront\functions.php på rad 32
+

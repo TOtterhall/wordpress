@@ -1,0 +1,9 @@
+2023-04-24T06:35:52+00:00 ERROR GET Begäran: https://api.pinterest.com/ads/v4/advertisers/countries
+Statuskod: 401
+API-svar: Återanslut till ditt Pinterest-konto
+2023-04-24T06:49:07+00:00 ERROR GET Begäran: https://api.pinterest.com/ads/v4/advertisers/countries
+Statuskod: 401
+API-svar: Återanslut till ditt Pinterest-konto
+2023-04-24T07:10:48+00:00 ERROR GET Begäran: https://api.pinterest.com/ads/v4/advertisers/countries
+Statuskod: 401
+API-svar: Återanslut till ditt Pinterest-konto
