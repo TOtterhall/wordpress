@@ -13,14 +13,14 @@ function custom_override_checkout_fields( $fields ) {
 }
 
     // Ta bort produktbilden HITTA NGT ATT TA BORT
-    // remove_action('woocommerce_before_shop_loop_item_title','woocommerce_template_loop_product_thumbnail');
-
+    remove_action('woocommerce_before_shop_loop_item_title','woocommerce_template_loop_product_thumbnail');
+   
 // Skriver ut text innan brödtexten
 add_action( 'woocommerce_breadcrumb' , 'min_funktion');
  
 function min_funktion(){
 
-    echo 'krokbanan';
+    echo '"Min inlämning 2- wordpress-woocomerce. Eget barntema, samt eget plugin"';
 }
 
 add_action('after_setup_theme','my_remove_product_result_count',99);
@@ -29,5 +29,7 @@ function my_remove_product_result_count() {
 remove_action('woocommerce_before_shop_loop','woocommerce_result_count',20);
 remove_action('woocommerce_after_shop_loop','woocommerce_result_count',20);
 }
+
+
 
 ?>

@@ -34,7 +34,7 @@ if ( ! $checkout->is_registration_enabled() && $checkout->is_registration_requir
 	<?php if ( $checkout->get_checkout_fields() ) : ?>
 
 		<?php do_action( 'woocommerce_checkout_before_customer_details' ); ?>
-
+		
 		<div class="col2-set" id="customer_details">
 			<div class="col-1">
 				<?php do_action( 'woocommerce_checkout_billing' ); ?>
@@ -62,5 +62,5 @@ if ( ! $checkout->is_registration_enabled() && $checkout->is_registration_requir
 	<?php do_action( 'woocommerce_checkout_after_order_review' ); ?>
 
 </form>
-
+<?php echo'Säkert att du inte glömt något?';?>
 <?php do_action( 'woocommerce_after_checkout_form', $checkout ); ?>
